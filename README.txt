@@ -1,4 +1,4 @@
-treRecipe viwer zur auswahl mit erklärung.
+Recipe viwer zur auswahl mit erklärung.
 
 Standart in mods ordner: JEI 
 
