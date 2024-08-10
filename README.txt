@@ -21,4 +21,6 @@ Aktuelle BUGS:
 
 -random crash beim start von mc (anscheind mit code chicken und project red) / Problemlösung: mehrmals neu starten? 
 
+-schmelzrezept von cobblestone und deepslate fehlen. / Problemlösung: auf patch von simple compression warten.
+
 -(Nur mit mit aktivierter dynamischer rescource) wenige blöcke als item im inventar nicht sichtbar. (betroffene items= ein paar blöcke von Draconic Evolution, alle Project Red redstone schaltung und kabel) / Problemlösung: F3+T zum reloaden 
