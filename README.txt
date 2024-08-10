@@ -15,11 +15,11 @@ REI: (Schlechte performance/ kann heftig ruckeln!) kann alle rezepte anzeigen, z
 
 Aktuelle BUGS:
 
--crating station geht nicht mit JEI/EMI (REI). / keine problemlösung
+-Crating station geht nicht mit JEI/EMI (REI). / neue craftingstation mod, nurnoch auf patch warten neue version JEI wird noch nicht untertützt
 
--tech reborn rezepte nicht sichtbar mit JEI. / keine Problemlösung 
+-Tech reborn rezepte nicht sichtbar mit JEI. / keine Problemlösung, JEI wird absichtlich von der mod nicht unterstüzt ¿warum auch immer?.
 
--random crash beim start von mc (anscheind mit code chicken und project red) / Problemlösung: mehrmals neu starten? 
+-Random crash beim start von mc (anscheind mit code chicken und project red) / Problemlösung: mehrmals neu starten? sonst noch planlos lol 
 
 -schmelzrezept von cobblestone und deepslate fehlen. / Problemlösung: auf patch von simple compression warten.
 
