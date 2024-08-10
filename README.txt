@@ -1,4 +1,4 @@
-Recipe viwer zur auswahl mit erklärung.
+treRecipe viwer zur auswahl mit erklärung.
 
 Standart in mods ordner: JEI 
 
@@ -26,7 +26,7 @@ kleine fehler:
 
 -(Nur mit mit aktivierter dynamischer rescource) wenige blöcke als item im inventar nicht sichtbar. (betroffene items= ein paar blöcke von Draconic Evolution, alle Project Red redstone schaltung und kabel) / Problemlösung: F3+T zum reloaden 
 
--Big Reactors wiki Buch crash
+-Extreme Reactors wiki Buch crash
 
 KRITISCH!:
 
