@@ -4,11 +4,11 @@ Standart in mods ordner: JEI
 
 
 
-JEI: (sehr gute performant, und sicher) kann tech reborn rezepte nicht anzeigen!
+JEI: (sehr gute performance, und sicher) kann tech reborn rezepte nicht anzeigen!
 
 EMI: (mittelmäßige performance) kann alle rezepte anzeigen, sonst ähnlich wie JEI
 
-REI: (Schlechte performance/ kann heftig ruckeln!) kann alle rezepte anzeigen, zasätzlich mit anpinn der rezepte
+REI: (Schlechte performance, kann heftig ruckeln!) kann alle rezepte anzeigen, zasätzlich mit anpinn der rezepte
 
 
 
