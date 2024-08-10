@@ -3,7 +3,6 @@ Recipe viwer zur auswahl mit erklärung.
 Standart in mods ordner: JEI 
 
 
-
 JEI: (sehr gute performance, und sicher) kann tech reborn rezepte nicht anzeigen!
 
 EMI: (mittelmäßige performance) kann alle rezepte anzeigen, sonst ähnlich wie JEI 
