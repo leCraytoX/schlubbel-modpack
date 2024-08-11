@@ -15,17 +15,19 @@ REI: (Schlechte performance, kann heftig ruckeln!) kann alle rezepte anzeigen, m
 Aktuelle BUGS:
 
 
-kleine fehler:
+nicht kritische fehler:
 
--Crating station geht nicht mit JEI/EMI (REI). / neue craftingstation mod, nurnoch auf patch warten neue version JEI wird noch nicht untertützt
+-Crating station geht nicht mit JEI/EMI (REI). / neue craftingstation mod, nurnoch auf patch warten neue version JEI wird noch nicht untertützt.
 
 -Tech reborn rezepte nicht sichtbar mit JEI. / keine Problemlösung, JEI wird absichtlich von der mod nicht unterstüzt ¿warum auch immer?.
 
 -schmelzrezept von cobblestone und deepslate fehlen. / Problemlösung: auf patch von simple compression warten.
 
--(Nur mit mit aktivierter dynamischer rescource) wenige blöcke als item im inventar nicht sichtbar. (betroffene items= ein paar blöcke von Draconic Evolution, alle Project Red redstone schaltung und kabel) / Problemlösung: F3+T zum reloaden 
+-(Nur mit mit aktivierter dynamischer rescource) wenige blöcke als item im inventar nicht sichtbar. (betroffene items= ein paar blöcke von Draconic Evolution, alle Project Red redstone schaltung und kabel) / Problemlösung: F3+T zum reloaden.
 
--Extreme Reactors wiki Buch crash
+-Extreme Reactors wiki Buch crash. / problemlösung: vorerst buch nicht benutzen.
+
+-FramedBlocks duplications Bug. / keine Problemlösung.
 
 KRITISCH!:
 
