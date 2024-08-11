@@ -27,8 +27,12 @@ nicht kritische fehler:
 
 -Extreme Reactors wiki Buch crash. / problemlösung: vorerst buch nicht benutzen.
 
--FramedBlocks duplications Bug. / keine Problemlösung.
+-FramedBlocks duplications Bug.
+
+-EMI und JEI können Rezepte von ProjectE MK1, MK2, MK3 collector manchmal nicht anzeigen. 
 
 KRITISCH!:
 
--Random crash beim start von mc (anscheind mit code chicken und project red) / Problemlösung: mehrmals neu starten? sonst noch planlos lol 
+-Random crash beim start von mc (anscheind mit code chicken und project red) / Problemlösung: mehrmals neu starten? sonst noch planlos lol
+
+-Random crash beim verlassen und wieder beitreten eines servers/singelplayer welt, keine Mods als fehler angezeigt / problemlösung: neu starten 
