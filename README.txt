@@ -36,3 +36,5 @@ KRITISCH!:
 -Random crash beim start von mc (anscheind mit code chicken und project red) / Problemlösung: mehrmals neu starten? sonst noch planlos lol.
 
 -Random crash beim verlassen und wieder beitreten eines servers/singelplayer welt, keine Mods als fehler angezeigt / problemlösung: neu starten.
+
+-Plötzliche Render Fehler mit Projecr red Illumar Lamps / Neustart benötigt
