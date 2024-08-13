@@ -37,4 +37,4 @@ KRITISCH!:
 
 -Random crash beim verlassen und wieder beitreten eines servers/singelplayer welt, keine Mods als fehler angezeigt / problemlösung: neu starten.
 
--Plötzliche Render Fehler mit Projecr red Illumar Lamps / Neustart benötigt
+-Plötzliche Render Fehler mit Project red Illumar Lamps / Neustart benötigt
