@@ -28,6 +28,8 @@ nicht kritische fehler:
 
 KRITISCH!:
 
+crash mit chisel, beim platzieren von bits(vermutlich render fehler mit anzeige)
+
 -Gefixt? Random crash beim start von mc (anscheind mit code chicken und project red) / Problemlösung: mehrmals neu starten? sonst noch planlos lol.
 
 -Gefixt? Plötzliche Render Fehler mit Project red Illumar Lamps / Neustart benötigt
