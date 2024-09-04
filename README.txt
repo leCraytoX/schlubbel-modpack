@@ -1,3 +1,6 @@
+Forge version: 37.3.7
+
+
 Recipe viwer zur auswahl mit erklärung.
 
 Standart in mods ordner: JEI 
@@ -28,7 +31,7 @@ nicht kritische fehler:
 
 KRITISCH!:
 
-crash mit chisel, beim platzieren von bits(vermutlich render fehler mit anzeige)
+-Random crash beim arbeiten mit chisel
 
 -Gefixt? Random crash beim start von mc (anscheind mit code chicken und project red) / Problemlösung: mehrmals neu starten? sonst noch planlos lol.
 
