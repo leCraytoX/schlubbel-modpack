@@ -3,7 +3,7 @@ Forge version: 37.3.0 - 37.3.7
 
 Recipe viwer zur auswahl mit erklärung.
 
-Standart in mods ordner: JEI 
+Standart in mods ordner: EMI 
 
 
 JEI: (sehr gute performance) kann tech reborn rezepte nicht anzeigen!
