@@ -1,4 +1,4 @@
-Forge version: 37.3.7
+Forge version: 37.3.0 - 37.3.7
 
 
 Recipe viwer zur auswahl mit erklärung.
