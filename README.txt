@@ -24,7 +24,7 @@ nicht kritische fehler:
 
 -schmelzrezept von cobblestone und deepslate fehlen. / Problemlösung: auf patch von simple compression warten (wird vermutlich nie gefixt).
 
--(Nur mit mit aktivierter dynamischer rescource) wenige blöcke als item im inventar (manchmal) nicht sichtbar. (betroffene items= ein paar blöcke von Draconic Evolution, alle Project Red redstone schaltung und kabel) / Problemlösung: F3+T zum reloaden.
+-Gefixt mit irgend einer config datei, weiß nur nicht welche (Nur mit mit aktivierter dynamischer rescource) wenige blöcke als item im inventar (manchmal) nicht sichtbar. (betroffene items= ein paar blöcke von Draconic Evolution, alle Project Red redstone schaltung und kabel) / Problemlösung: F3+T zum reloaden.
 
 -FramedBlocks der benutzte block bleibt nach zerstörung des framed blocks noch an der position gespeichert, kann mit den framed hammer behoben werden.
 
