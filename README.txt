@@ -24,15 +24,23 @@ nicht kritische fehler:
 
 -schmelzrezept von cobblestone und deepslate fehlen. / Problemlösung: auf patch von simple compression warten (wird vermutlich nie gefixt).
 
--Gefixt mit irgend einer config datei, weiß nur nicht welche (Nur mit mit aktivierter dynamischer rescource) wenige blöcke als item im inventar (manchmal) nicht sichtbar. (betroffene items= ein paar blöcke von Draconic Evolution, alle Project Red redstone schaltung und kabel) / Problemlösung: F3+T zum reloaden.
-
--FramedBlocks der benutzte block bleibt nach zerstörung des framed blocks noch an der position gespeichert, kann mit den framed hammer behoben werden.
+-Halb Gefixt mit irgend einer config datei, weiß nur nicht welche (Nur mit mit aktivierter dynamischer rescource) unsichtbare items im inventar nur 3d blöcke und items von mods die codechickenLib benutzen) / Problemlösung: F3+T zum reloaden.
 
 
 KRITISCH!:
 
--Random crash beim arbeiten mit chisel
+-Random crash? beim arbeiten mit chisel (mc hängt sich nur auf ohne crash)
 
--Gefixt? Random crash beim start von mc (anscheind mit code chicken und project red) / Problemlösung: mehrmals neu starten? sonst noch planlos lol.
+-Gefixt? Neue test version vom entwickler veröffentlicht zum testen, sollte bald endgültig behoben sein. / Random crash beim start von mc wegen codechickenLib / Problemlösung: mehrmals neu starten? sonst noch planlos lol.
 
--Gefixt? Plötzliche Render Fehler mit Project red Illumar Lamps / Neustart benötigt
+
+Server bezüglich:
+
+-server timeout beim zu schnellen teleportieren oder chunk generiren
+
+-chicken chunk loader chunks bleiben selbts nach zerstören des loaders geladen, das zu doppelt geladenen chunk fehlern fürt, und zum crash.
+
+-FramedBlocks der benutzte block bleibt nach zerstörung des framed blocks noch an der position gespeichert, kann mit den framed hammer behoben werden. / vermutlich selber fehler mit chicken chunk loader.
+
+
+
