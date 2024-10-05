@@ -1,4 +1,4 @@
-Forge version: 47.3.0 - 47.3.7
+Forge version: 47.3.0 - 47.3.10
 
 
 Recipe viwer zur auswahl mit erklärung.
@@ -24,23 +24,20 @@ nicht kritische fehler:
 
 -schmelzrezept von cobblestone und deepslate fehlen. / Problemlösung: auf patch von simple compression warten (wird vermutlich nie gefixt).
 
--Halb Gefixt mit irgend einer config datei, weiß nur nicht welche (Nur mit mit aktivierter dynamischer rescource) unsichtbare items im inventar nur 3d blöcke und items von mods die codechickenLib benutzen) / Problemlösung: F3+T zum reloaden.
+-Random? (Nur mit mit aktivierter dynamischer rescource) unsichtbare items im inventar nur 3d blöcke und items von mods die codechickenLib benutzen) / Problemlösung: F3+T zum reloaden.
 
 
 KRITISCH!:
 
 -Random crash? beim arbeiten mit chisel (mc hängt sich nur auf ohne crash)
 
--Gefixt? Neue test version vom entwickler veröffentlicht zum testen, sollte bald endgültig behoben sein. / Random crash beim start von mc wegen codechickenLib / Problemlösung: mehrmals neu starten? sonst noch planlos lol.
-
 
 Server bezüglich:
 
--server timeout beim zu schnellen teleportieren oder chunk generiren
-
--chicken chunk loader chunks bleiben selbts nach zerstören des loaders geladen, das zu doppelt geladenen chunk fehlern fürt, und zum crash.
+-eventuell geixt? -server timeout beim zu schnellen teleportieren oder chunk generiren
 
 -FramedBlocks der benutzte block bleibt nach zerstörung des framed blocks noch an der position gespeichert, kann mit den framed hammer behoben werden. / vermutlich selber fehler mit chicken chunk loader.
 
+-double Scheduled chunk problem 
 
 
