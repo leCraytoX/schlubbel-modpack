@@ -24,7 +24,7 @@ nicht kritische fehler:
 
 -schmelzrezept von cobblestone und deepslate fehlen. / Problemlösung: auf patch von simple compression warten (wird vermutlich nie gefixt).
 
--Random? (Nur mit mit aktivierter dynamischer rescource) unsichtbare items im inventar nur 3d blöcke und items von mods die codechickenLib benutzen) / Problemlösung: F3+T zum reloaden.
+-Gefixt? (Nur mit mit aktivierter dynamischer rescource) unsichtbare items im inventar nur 3d blöcke und items von mods die codechickenLib benutzen) / Problemlösung: F3+T zum reloaden.
 
 
 KRITISCH!:
@@ -37,7 +37,5 @@ Server bezüglich:
 -eventuell geixt? -server timeout beim zu schnellen teleportieren oder chunk generiren
 
 -FramedBlocks der benutzte block bleibt nach zerstörung des framed blocks noch an der position gespeichert, kann mit den framed hammer behoben werden. / vermutlich selber fehler mit chicken chunk loader.
-
--double Scheduled chunk problem 
 
 
