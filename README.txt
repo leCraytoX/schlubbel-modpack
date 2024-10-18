@@ -26,16 +26,18 @@ nicht kritische fehler:
 
 -Gefixt? (Nur mit mit aktivierter dynamischer rescource) unsichtbare items im inventar nur 3d blöcke und items von mods die codechickenLib benutzen) / Problemlösung: F3+T zum reloaden.
 
+-Sophisticated Storage mod zeigt keine rezepte bei den meisten kisten, barrels und shulker chests unter JEI und EMI. / keine problemlösugn und keine infos, bug existiert nur in unserem modpack, möglicherweise ein plugin für JEI?
+
 
 KRITISCH!:
 
--Random crash? beim arbeiten mit chisel (mc hängt sich nur auf ohne crash)
+-Random crash? beim arbeiten mit chisel (mc hängt sich nur auf ohne crash) / aktuell keine problemlösung
 
 
 Server bezüglich:
 
 -eventuell geixt? -server timeout beim zu schnellen teleportieren oder chunk generiren
 
--FramedBlocks der benutzte block bleibt nach zerstörung des framed blocks noch an der position gespeichert, kann mit den framed hammer behoben werden. / vermutlich selber fehler mit chicken chunk loader.
+-FramedBlocks der benutzte block bleibt nach zerstörung des framed blocks noch an der position gespeichert, kann mit den framed hammer behoben werden. / problemlösung, framed hammer benutzen oder den zu verwenden block in der off hand halten beim platzieren von framed blöcken.
 
 
