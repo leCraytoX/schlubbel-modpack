@@ -1,4 +1,5 @@
-Forge version: 47.3.0 - 47.3.10
+mc version 1.20.1 
+Forge version: 47.3.0 - 47.3.10 
 
 
 Recipe viwer zur auswahl mit erklärung.
@@ -22,11 +23,9 @@ nicht kritische fehler:
 
 -Tech reborn rezepte nicht sichtbar mit JEI. / keine Problemlösung, JEI wird absichtlich von der mod nicht unterstüzt ¿warum auch immer?.
 
--schmelzrezept von cobblestone und deepslate fehlen. / Problemlösung: auf patch von simple compression warten (wird vermutlich nie gefixt).
+-(bald gefixt)schmelzrezept von cobblestone und deepslate fehlen. / Problemlösung: auf patch von simple compression warten (wird vermutlich nie gefixt). wird bald manuel mit crafttweaker hinzugefügt und somit gefixt.
 
--Gefixt? (Nur mit mit aktivierter dynamischer rescource) unsichtbare items im inventar nur 3d blöcke und items von mods die codechickenLib benutzen) / Problemlösung: F3+T zum reloaden.
-
--Sophisticated Storage mod zeigt keine rezepte bei den meisten kisten, barrels und shulker chests unter JEI und EMI. / keine problemlösugn und keine infos, bug existiert nur in unserem modpack, möglicherweise ein plugin für JEI?
+-(vorübergehend) Sophisticated Storage mod zeigt keine rezepte bei den meisten kisten, barrels und shulker chests unter JEI und EMI. / beim nächsten update behoben.
 
 
 KRITISCH!:
@@ -38,6 +37,6 @@ Server bezüglich:
 
 -eventuell geixt? -server timeout beim zu schnellen teleportieren oder chunk generiren
 
--FramedBlocks der benutzte block bleibt nach zerstörung des framed blocks noch an der position gespeichert, kann mit den framed hammer behoben werden. / problemlösung, framed hammer benutzen oder den zu verwenden block in der off hand halten beim platzieren von framed blöcken.
+-FramedBlocks der benutzte block bleibt nach zerstörung des framed blocks noch an der position gespeichert. / problemlösung, framed hammer benutzen oder den zu verwenden block in der off hand halten beim platzieren von framed blöcken.
 
 
