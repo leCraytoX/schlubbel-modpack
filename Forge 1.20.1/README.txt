@@ -1,3 +1,6 @@
+Benötigt Min 4GB Ram
+
+
 Recipe viwer zur auswahl mit erklärung.
 
 Standart in mods ordner: EMI 

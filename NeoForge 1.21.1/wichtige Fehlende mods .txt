@@ -1,9 +1,12 @@
--Project Red Mods
--Thermal Mods
--RF mods (Dimensions)
--Tinkers construct
--Galacticraft
--Weather2
--Create mods (alles)
--Aether
--draconic evolutions
+-Project Red Mods	/ bald verfügbar
+-Thermal Mods		/ bald verfügbar
+-RF mods (Dimensions)	/ bald verfügbar
+-Tinkers construct	/ tba
+-Galacticraft		/ pre alpha verfügbar
+-Weather2		/ tba
+-Create mods (alles)	/ tba
+-Aether			/ beta crash
+-draconic evolutions	/ bald verfügbar
+-chisel & bits		/ tba
+-Forestry Community 	/ tba
+-botanypots & trees	/ tba

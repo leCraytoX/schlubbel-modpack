@@ -1,6 +1,9 @@
+Benötigt Min 5GB Ram
+
+
 Aktuelle BUGS:
 
-Keine
+-CB mikroblocks nicht sichtbar
 
 
 KRITISCH!:
@@ -11,3 +14,4 @@ KRITISCH!:
 Server bezüglich:
 
 Keine
+
