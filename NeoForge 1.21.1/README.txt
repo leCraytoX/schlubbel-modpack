@@ -3,7 +3,7 @@ Benötigt Min 5GB Ram
 
 Aktuelle BUGS:
 
--CB mikroblocks nicht sichtbar
+-CB mikroblocks nicht sichtbar (wegen sodium)
 
 
 KRITISCH!:
