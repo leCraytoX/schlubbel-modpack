@@ -14,3 +14,4 @@
 -JEI addons		/ tba
 -alex mobs		/ tba
 -naturalist		/ tba
+-Quark 			/ tba
