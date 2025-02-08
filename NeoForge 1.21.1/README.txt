@@ -1,14 +1,16 @@
+Modpack Version: B0.4.7
+
 Benötigt Min 5GB Ram
 
 
 Aktuelle BUGS:
 
--CB mikroblocks nicht sichtbar (wegen sodium)
+- effortless crash beim beenden von minecraft
 
 
 KRITISCH!:
 
--crash des Guide books bei Applied Energistics
+- crash des Guide books bei Applied Energistics
 
 
 Server bezüglich:

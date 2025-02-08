@@ -1,3 +1,5 @@
+Modpack Version: R1.5.1
+
 Benötigt Min 4GB Ram
 
 
