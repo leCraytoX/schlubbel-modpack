@@ -5,7 +5,6 @@
 -Galacticraft		/ pre alpha verfügbar 
 -Weather2		/ tba
 -Create mods (alles)	/ bald verfügbar
--Aether			/ beta version crash
 -draconic evolutions	/ bald verfügbar
 -chisel & bits		/ tba
 -Forestry Community 	/ tba
