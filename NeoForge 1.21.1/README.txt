@@ -1,4 +1,4 @@
-Modpack Version: B0.4.7
+Modpack Version: B0.4.5.1
 
 Benötigt Min 5GB Ram
 
