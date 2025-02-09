@@ -282,6 +282,7 @@ Mods	(351)			Mod Info			Modloader		Status 				Stabilität
 - rftoolspower			- technik mod 			- NeoForge		- Beta				- Stable
 - rubidium-extra		- embedium extras addon 	- NeoForge		- Release			- Stable
 - rusticdelight			- Farmers delight addon		- NeoForge		- Release			- Stable
+- SecurityCraft			- technik mod			- NeoForge		- Release			- Stable
 - saturn			- Performance mod		- NeoForge		- Release			- Stable
 - ScalableCatsForce		- library mod  			- NeoForge		- Release			- Stable
 - ScalableLux			- Performance light engine mod	- NeoForge		- Release			- Stable
