@@ -1,4 +1,4 @@
-Modpack Version: B0.4.5.1
+Modpack Version: B-0.5.3
 
 Benötigt Min 5GB Ram
 
@@ -10,8 +10,7 @@ Aktuelle BUGS:
 
 KRITISCH!:
 
-- crash des Guide books bei Applied Energistics
-
+- c2me chunk thread glitch crash mit java, weitere tests folgen
 
 Server bezüglich:
 

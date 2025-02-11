@@ -1,8 +1,9 @@
-Mods	(351)			Mod Info			Modloader		Status 				Stabilität
+Mods	(350)			Mod Info			Modloader		Status 				Stabilität
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Armor Status HUD		- QoL hud			- NeoForge		- Release			- Stable
 - accessories_cclayer		- accessories addon 		- NeoForge		- Release			- Stable
+- AchievementOptimizer		- Performance Mod		- NeoForge		- Release			- Stable
 - accessories			- accessory Hud			- NeoForge		- Release			- Stable
 - accessorify			- vanilla accessories   	- NeoForge		- Release			- Stable
 - accurate-block-placement	- better block placement	- Fabric 		- Release			- Stable
@@ -51,7 +52,6 @@ Mods	(351)			Mod Info			Modloader		Status 				Stabilität
 - blocksyouneed_luna		- Decoration Mod		- NeoForge		- Release			- Stable
 - bookshelf			- library mod			- NeoForge		- Release			- Stable
 - buildcraft			- Technik Mod			- NeoForge		- Pre Alpha			- Stable
-- buildinggadgets2		- QoL Building Mod		- NeoForge		- Release			- Stable
 - ctov				- World-Gen Overhauled Village	- NeoForge		- Release			- Stable
 - c2me				- New Chunk Generation Engine	- NeoForge		- Alpha				- Unstable?, can crash (disable Async Serialization?)
 - cable_facade			- Facade for all cables		- NeoForge		- Release			- Stable
@@ -92,6 +92,7 @@ Mods	(351)			Mod Info			Modloader		Status 				Stabilität
 - cwb				- Borderless modes for Embedium	- NeoForge		- Release			- Stable
 - darkmodeeverywhere		- QoL Dakmode for all Guis      - NeoForge		- Release			- Stable
 - despawntweaks			- QoL Performace mod		- NeoForge		- Release			- Stable
+- deep_aether 			- aether addon			- NeoForge		- Release			- Stable
 - DiagonalFences		- Diagonal Fence connections	- NeoForge		- Release			- Stable
 - DiagonalWalls			- Diagonal wall connections	- NeoForge		- Release			- Stable, can cause glitches with many mod walls
 - DiagonalWindows		- Diagonal Panes & bars connect - NeoForge		- Release			- Stable
@@ -143,7 +144,6 @@ Mods	(351)			Mod Info			Modloader		Status 				Stabilität
 - forcecloseloadingscreen	- faster close loading screen	- Fabric		- Release			- Stable
 - forgified-fabric-api		- fabric API for NeoForge	- NeoForge		- Release			- Stable
 - FramedBlocks			- Decoration Mod  		- NeoForge		- Release			- Stable
-- framework			- library mod  			- NeoForge		- Release			- Stable
 - fruitsdelight			- Farmers delight addon 	- NeoForge		- Release			- Stable
 - ftb-essentials		- (server) commands		- NeoForge		- Release			- Stable
 - ftbjeiextras			- FTB addon for JEI		- NeoForge		- Release			- Stable
@@ -174,6 +174,7 @@ Mods	(351)			Mod Info			Modloader		Status 				Stabilität
 - industrialforegoing		- Technik mod			- NeoForge		- Beta				- Stable
 - industrial-foregoing-souls	- industrail Foregoing addon	- NeoForge		- Beta				- Stable
 - InventoryProfilesNext		- Better Inventory features	- NeoForge		- Release			- Stable
+- IllagerInvasion		- more illagers			- NeoForge		- Release			- Stable
 - InvMove			- QoL inv feature		- NeoForge		- Release			- Stable
 - iris				- Optifine shader option	- NeoForge		- Release			- Stable	
 - itemcollectors		- item collectors	        - NeoForge		- Release			- Stable 
@@ -183,6 +184,7 @@ Mods	(351)			Mod Info			Modloader		Status 				Stabilität
 - jei				- JEI recipe viewer		- NeoForge		- Release			- Stable
 - jeimultiblocks		- JEI + immersive engineering 	- NeoForge		- Release			- Stable
 - justenoughbreeding		- JEI breeding addon		- NeoForge		- Release			- Stable
+- JustEnoughResources		- JEI addon 			- NeoForge		- Beta				- Stable
 - JustEnoughMekanismMultiblocks - JEI Mekanism multiblock addon	- NeoForge		- Release			- Stable
 - Kiwi				- library mod  			- NeoForge		- Release			- Stable
 - konkrete			- library mod  			- NeoForge		- Release			- Stable
@@ -209,6 +211,7 @@ Mods	(351)			Mod Info			Modloader		Status 				Stabilität
 - mcw-stairs			- Decoration mod 		- NeoForge		- Release			- Stable
 - mcw-trapdoors			- Decoration mod 		- NeoForge		- Release			- Stable
 - mcw-windows			- Decoration mod 		- NeoForge		- Release			- Stable
+- modonomicon			- thaumcraft like quest book 	- NeoForge		- Release			- Stable
 - Measurements			- Maßband mod 			- NeoForge		- Release			- Stable
 - Mekanism			- Technik mod			- NeoForge		- Alpha				- Stable?
 - MekanismAdditions		- Mekanism addon		- NeoForge		- Alpha				- Stable
@@ -270,7 +273,6 @@ Mods	(351)			Mod Info			Modloader		Status 				Stabilität
 - rechiseled			- Decoration Blocks		- NeoForge		- Release			- Stable
 - recipeessentials		- crafting improvements		- NeoForge		- Release			- Stable
 - redirected			- Performance mod 		- NeoForge		- Release			- Stable 
-- refurbished_furniture		- Decoration mod		- NeoForge		- Release			- Stable
 - RegionsUnexplored		- World Gen Biome mod		- NeoForge		- Release			- Stable
 - Replication			- technik mod			- NeoForge		- Release			- Stable
 - repurposed_structures		- vanilla structures variety	- NeoForge		- Release			- Stable
@@ -290,7 +292,6 @@ Mods	(351)			Mod Info			Modloader		Status 				Stabilität
 - sepals			- Performance mod		- Fabric		- Release			- Stable
 - servercore			- Performance mod		- NeoForge		- Release			- Stable
 - slimeasier			- get slime easier		- NeoForge		- Release			- Stable
-- smoothchunk			- Performance mod		- NeoForge		- Release			- Stable
 - snowundertrees		- QoL snow layer mod		- NeoForge		- Release			- Stable
 - sodiumdynamiclights		- dynamic lights		- NeoForge		- Release			- Stable?
 - sophisticatedbackpacks	- backpack mod			- NeoForge		- Release			- Stable
