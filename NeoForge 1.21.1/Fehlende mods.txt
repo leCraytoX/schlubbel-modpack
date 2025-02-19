@@ -1,12 +1,12 @@
 -Project Red Mods	/ bald verfügbar
--Thermal Mods		/ bald verfügbar
+-Thermal Mods		/ tba
 -RF mods (Dimensions)	/ bald verfügbar
 -Tinkers construct	/ tba
--Galacticraft		/ pre alpha verfügbar 
+-Galacticraft		/ pre alpha verfügbar
 -Weather2		/ tba
 -Create mods (alles)	/ bald verfügbar
 -draconic evolutions	/ bald verfügbar
--chisel & bits		/ tba
+-chisel & bits		/ (ersetzt durch litle tiles)
 -Forestry Community 	/ tba
 -botany pots & trees	/ tba
 -Industrialcraft2 	/ tba
