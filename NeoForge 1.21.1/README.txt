@@ -1,6 +1,7 @@
-Modpack Version: B-0.5.6.1
+Modpack Version: B-0.5.6.2
 
-Benötigt Min 5GB Ram
+Benötigt Min ~6GB Ram in singelplayer
+
 
 
 Aktuelle BUGS:
@@ -11,15 +12,15 @@ Aktuelle BUGS:
 
 - supplementaries & amendments wegen create crash vorübergehend entfernt
 
+- chest, und deco pots unsichtbar bei animation
+
 
 KRITISCH!:
 
-- c2me chunk thread glitch crash mit java, weitere tests folgen
-
-- Java EXCEPTION_ACCESS_VIOLATION (0xc0000005)
+-Java "EXCEPTION_ACCESS_VIOLATION (0xc0000005)"
 
 
 Server bezüglich:
 
-Keine
+nicht getestet
 

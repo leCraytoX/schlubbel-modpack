@@ -84,8 +84,10 @@ Mods: (359)   			Mod Info			Modloader		Status 				Stabilität
 - Corgilib			- library mod  			- NeoForge		- Release			- Stable
 - cosmicore			- Falling Meteors Mod		- NeoForge		- Release			- Stable
 - craftingstation-jei		- JEI compatible craftstation	- NeoForge		- Release			- Stable
-- CreativeCore			- library core mod  		- NeoForge		- Release			- Stable
+- CraftTweaker			- custom crafting recipes	- NeoForge		- Release			- Stable
+- Create Encased		- create addon 			- NeoForge		- Release			- Stable
 - create			- Kinetic technik mod		- NeoForge		- Release			- Stable
+- CreativeCore			- library core mod  		- NeoForge		- Release			- Stable
 - cristellib			- library mod  			- NeoForge		- Release			- Stable
 - cryonicconfig			- library mod  			- NeoForge		- Release			- Stable
 - Cucumber			- library mod  			- NeoForge		- Release			- Stable
@@ -277,7 +279,7 @@ Mods: (359)   			Mod Info			Modloader		Status 				Stabilität
 - recipeessentials		- crafting improvements		- NeoForge		- Release			- Stable
 - redirected			- Performance mod 		- NeoForge		- Release			- Stable 
 - RegionsUnexplored		- World Gen Biome mod		- NeoForge		- Release			- Stable
-- Replication			- technik mod			- NeoForge		- Release			- Stable
+- Replication			- technik mod			- NeoForge		- Beta				- Stable
 - repurposed_structures		- vanilla structures variety	- NeoForge		- Release			- Stable
 - resource_nether_ores		- vanilla ores in nether	- NeoForge		- Release			- Stable
 - resourcefullib		- library mod  			- NeoForge		- Release			- Stable
@@ -305,7 +307,7 @@ Mods: (359)   			Mod Info			Modloader		Status 				Stabilität
 - spark				- Performance profiler		- NeoForge		- Release			- Stable
 - Spice of Life Onion		- enhanced food system		- NeoForge		- Release			- Stable
 - staaaaaaaaaaaack		- performance mod stack items	- NeoForge		- Release			- Stable
-- StackDeobfuscator		- log & crash report debug mod 	- Fabric		- Release			- Stable
+- StackDeobfuscator		- log & report debug mod 	- Fabric		- Release			- Stable
 - Storage Drawers		- Storage blocks		- NeoForge		- Release			- Stable
 - Structory			- atmospheric structures 	- NeoForge		- Release			- Stable
 - Structory_Towers		- atmospheric structures towers	- NeoForge		- Release			- Stable
