@@ -2,7 +2,7 @@ Mods: (359)   			Mod Info			Modloader		Status 				Stabilität
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Armor Status HUD		- QoL hud			- NeoForge		- Release			- Stable
-- accessories_cclayer		- accessories addon 		- NeoForge		- Release			- Stable
+- accessories_cclayer		- accessories addon 		- NeoForge		- Beta				- Stable
 - AchievementOptimizer		- Performance Mod		- NeoForge		- Release			- Stable
 - accessories			- accessory Hud			- NeoForge		- Beta				- Stable
 - accessorify			- vanilla accessories   	- NeoForge		- Release			- Stable
@@ -18,7 +18,7 @@ Mods: (359)   			Mod Info			Modloader		Status 				Stabilität
 - aether			- Fantasy Mod			- NeoForge		- Release			- Stable
 - AetherVillages		- Aether village addon		- NeoForge		- Release			- Stable
 - AI-Improvements		- Performance Mod		- NeoForge		- Release			- Stable
-- alltheleaks			- Performance Mod Memory Leak 	- NeoForge		- Release			- Stable
+- alltheleaks			- Performance Mod Memory Leak 	- NeoForge		- Beta				- Stable
 - alternate_current		- Redstone dust Performance 	- NeoForge		- Release			- Stable
 - AmbientSounds			- Ambient Sounds		- NeoForge		- Release			- Stable
 - amendments			- QoL Tweaks Mod		- NeoForge		- Release			- Stable
@@ -290,7 +290,7 @@ Mods: (359)   			Mod Info			Modloader		Status 				Stabilität
 - SecurityCraft			- technik mod			- NeoForge		- Release			- Stable
 - saturn			- Performance mod		- NeoForge		- Release			- Stable
 - ScalableCatsForce		- library mod  			- NeoForge		- Release			- Stable
-- ScalableLux			- Performance light engine mod	- NeoForge		- Release			- Stable
+- ScalableLux			- Performance light engine mod	- NeoForge		- Beta				- Stable
 - Searchables			- library mod  			- NeoForge		- Release			- Stable
 - sepals			- Performance mod		- Fabric		- Release			- Stable
 - servercore			- Performance mod		- NeoForge		- Release			- Stable
