@@ -4,13 +4,12 @@
 -Tinkers construct	/ tba
 -Galacticraft		/ pre alpha verfügbar
 -Weather2		/ tba
--Create mods (alles)	/ bald verfügbar
+-create addons		/ bald verfügbar
 -draconic evolutions	/ bald verfügbar
 -chisel & bits		/ (ersetzt durch litle tiles)
 -Forestry Community 	/ tba
 -botany pots & trees	/ tba
 -Industrialcraft2 	/ tba
--JEI addons		/ tba
 -alex mobs		/ tba
 -naturalist		/ tba
 -Quark 			/ tba

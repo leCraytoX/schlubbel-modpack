@@ -1,4 +1,4 @@
-Mods	(356)			Mod Info			Modloader		Status 				Stabilität
+Mods: (359)   			Mod Info			Modloader		Status 				Stabilität
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Armor Status HUD		- QoL hud			- NeoForge		- Release			- Stable
@@ -85,7 +85,9 @@ Mods	(356)			Mod Info			Modloader		Status 				Stabilität
 - cosmicore			- Falling Meteors Mod		- NeoForge		- Release			- Stable
 - craftingstation-jei		- JEI compatible craftstation	- NeoForge		- Release			- Stable
 - CreativeCore			- library core mod  		- NeoForge		- Release			- Stable
+- create			- Kinetic technik mod		- NeoForge		- Release			- Stable
 - cristellib			- library mod  			- NeoForge		- Release			- Stable
+- cryonicconfig			- library mod  			- NeoForge		- Release			- Stable
 - Cucumber			- library mod  			- NeoForge		- Release			- Stable
 - cullleaves			- Performance mod for leaves	- NeoForge		- Release			- Stable
 - cupboard			- library mod  			- NeoForge		- Release			- Stable
@@ -130,7 +132,7 @@ Mods	(356)			Mod Info			Modloader		Status 				Stabilität
 - expandeddelight		- Farmers Delight addon		- NeoForge		- Release			- Stable
 - extended-industrialization	- Modern industrialization addon- NeoForge		- Release			- Stable 	
 - fabric-language-kotlin	- library Kotlin Language mod  	- Fabric		- Release			- Stable
-- fallingleaves			- QoL enhancement mod		- Fabric		- Release			- Stable 
+- fallingleaves			- QoL Deco enhancement mod	- Fabric		- Release			- Stable 
 - FarmersDelight		- more food 			- NeoForge		- Release			- Stable 
 - fasterrandom			- Performance random ticks mod  - Fabric		- Release			- Stable? 
 - FastFurnace			- Performance mod for furnace   - NeoForge		- Release			- Stable 
@@ -154,7 +156,6 @@ Mods	(356)			Mod Info			Modloader		Status 				Stabilität
 - ftb-ultimine			- QoL Mining Features		- NeoForge		- Release			- Stable
 - functionalstorage		- Better Storage drawers	- NeoForge		- Beta				- Stable
 - fusion			- allow CTM texture packs	- NeoForge		- Beta				- Stable	
-- fzzy_config			- library config mod  		- NeoForge		- Release			- Stable
 - geckolib			- library mod  			- NeoForge		- Release			- Stable
 - GlitchCore			- library core mod  		- NeoForge		- Release			- Stable
 - Glodium			- library mod  			- NeoForge		- Release			- Stable
@@ -188,7 +189,7 @@ Mods	(356)			Mod Info			Modloader		Status 				Stabilität
 - justenoughbreeding		- JEI breeding addon		- NeoForge		- Release			- Stable
 - JustEnoughResources		- JEI addon 			- NeoForge		- Beta				- Stable
 - JustEnoughMekanismMultiblocks - JEI Mekanism multiblock addon	- NeoForge		- Release			- Stable
-- Kiwi				- library mod  			- NeoForge		- Release			- Stable
+- Kiwi				- library mod  			- NeoForge		- Beta				- Stable
 - konkrete			- library mod  			- NeoForge		- Release			- Stable
 - kotlinforforge		- kotlin language Forge		- NeoForge		- Release			- Stable
 - krypton			- Performance & optimisation 	- Fabric		- Release			- Stable?
@@ -311,7 +312,7 @@ Mods	(356)			Mod Info			Modloader		Status 				Stabilität
 - structureessentials		- faster locate & structures    - NeoForge		- Release			- Stable
 - supermartijn642configlib	- library mod  			- NeoForge		- Release			- Stable
 - supermartijn642corelib	- library core mod  		- NeoForge		- Release			- Stable
-- supplementaries		- Decoration mod		- NeoForge		- Release			- Stable
+- supplementaries		- Decoration mod		- NeoForge		- Beta				- Stable
 - SwordBlockingMechanics	- block with sword		- NeoForge		- Release			- Stable
 - t_and_t			- World-gen structures		- NeoForge		- Release			- Stable
 - tankstorage			- portable fluid tanks		- NeoForge		- Release			- Stable
@@ -337,6 +338,7 @@ Mods	(356)			Mod Info			Modloader		Status 				Stabilität
 - wirelesschargers		- technik mod charger		- NeoForge		- Release			- Stable
 - Xaeros_Minimap		- minimap			- NeoForge		- Release			- Stable
 - XaerosWorldMap 		- world-map			- NeoForge		- Release			- Stable
+- XeKr's Decoration		- decoration mod		- NeoForge		- Release			- Stable? wall texture bug
 - xycraft_core			- core mod			- NeoForge		- Release			- Stable
 - xycraft_machines		- technik mod			- NeoForge		- Release			- Stable
 - xycraft_override		- xycraft addon 		- NeoForge		- Release			- Stable
