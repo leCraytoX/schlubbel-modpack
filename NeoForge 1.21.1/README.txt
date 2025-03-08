@@ -1,6 +1,6 @@
 Modpack Version: B-0.5.6.3
 
-Benötigt Min ~6GB Ram in singelplayer
+Benötigt Min <6 GB Ram in singelplayer
 
 
 
@@ -13,7 +13,9 @@ Aktuelle BUGS:
 
 KRITISCH!:
 
--(evtl behoben) Java "EXCEPTION_ACCESS_VIOLATION (0xc0000005)"
+- Java error "EXCEPTION_ACCESS_VIOLATION (0xc0000005)"
+
+- little tiles blöcke unsichtbar (mod aktuell quasi unbrauchbar)
 
 
 Server bezüglich:

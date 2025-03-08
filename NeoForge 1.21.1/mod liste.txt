@@ -1,4 +1,4 @@
-Mods: (363)   			Mod Info			Modloader		Status 				Stabilität
+Mods: (374)   			Mod Info			Modloader		Status 				Stabilität
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Armor Status HUD		- QoL hud			- NeoForge		- Release			- Stable
@@ -27,7 +27,8 @@ Mods: (363)   			Mod Info			Modloader		Status 				Stabilität
 - appleskin			- QoL hunger bar		- NeoForge		- Release			- Stable
 - appliedenergistics2		- Technik Mod			- NeoForge		- Beta				- Stable
 - Applied-Mekanistics		- AE2 & Mekanism compability	- NeoForge		- Release			- Stable
-- Aquaculture 2			- fishing Expansion		- NeoForge		- Release			- Stable
+- Aquaculture			- fishing Expansion		- NeoForge		- Release			- Stable
+- aquaculturedelight		- Aquaculture Delight addon	- NeoForge		- Release			- Stable		
 - architectury			- library mod			- NeoForge		- Release			- Stable
 - areas				- ceate custom named areas	- NeoForge		- Release			- Stable
 - ars_nouveau			- Fantasy Magic Mod with mana	- NeoForge		- Release			- Stable
@@ -36,6 +37,7 @@ Mods: (363)   			Mod Info			Modloader		Status 				Stabilität
 - attributefix			- Performance Mod		- NeoForge		- Release			- Stable
 - auto_wood_stripper		- QoL Function Mod		- NeoForge		- Release			- Stable
 - AutochefsDelight		- Farmers Delight optimizion	- NeoForge		- Release			- Stable
+- automodpack			- auto modpack uodater		- NeoForge		- Release			- Stable
 - BadOptimization		- Performance Mod		- NeoForge		- Release			- Stable
 - balm				- library mod			- NeoForge		- Release			- Stable
 - BetterAdvancements		- Better Advancements screen 	- NeoForge		- Release			- Stable		
@@ -66,6 +68,7 @@ Mods: (363)   			Mod Info			Modloader		Status 				Stabilität
 - chisel			- Decoration Mod		- NeoForge		- Release			- Stable
 - chunkloaders			- better Chunk loaders		- NeoForge		- Release			- Stable
 - Chunk-Pregenerator		- World Pre Generator Mod	- NeoForge		- Release			- Stable
+- CityCraf			- city Decoration mod		- NeoForge		- Release			- Stable
 - clientcrafting		- only Clientside crafting 	- NeoForge		- Release			- Stable
 - clienttweaks			- QoL optional Tweaks		- NeoForge		- Release			- Stable
 - cloth-config			- library mod  			- NeoForge		- Release			- Stable
@@ -117,7 +120,7 @@ Mods: (363)   			Mod Info			Modloader		Status 				Stabilität
 - dyenamics			- Decoration colors Mod  	- NeoForge		- Release			- Stable	
 - EasyAnvils			- Decoration Mod  		- NeoForge		- Release			- Stable	
 - EchoChest			- chest collect items nearby	- NeoForge		- Release			- Stable
-- effortless			- building menu			- NeoForge		- Release			- Stable?, only crash on quit game
+- effortless			- building menu			- NeoForge		- Release			- unstable? only crash on quit game
 - embeddium			- Performace mod		- NeoForge		- Release			- Stable
 - EnchantingInfuser		- QoL choose enchantments	- NeoForge		- Release			- Stable
 - enchdesc			- QoL enchantment description	- NeoForge		- Release			- Stable
@@ -135,6 +138,7 @@ Mods: (363)   			Mod Info			Modloader		Status 				Stabilität
 - fabric-language-kotlin	- library Kotlin Language mod  	- Fabric		- Release			- Stable
 - fallingleaves			- QoL Deco enhancement mod	- Fabric		- Release			- Stable 
 - FarmersDelight		- more food 			- NeoForge		- Release			- Stable 
+- FarmersStructures		- FarmersDelight structures	- NeoForge		- Release			- Stable 
 - fasterrandom			- Performance random ticks mod  - Fabric		- Release			- Stable? 
 - FastFurnace			- Performance mod for furnace   - NeoForge		- Release			- Stable 
 - fastitems			- Performance Mod for items     - Fabric		- Release			- Stable
@@ -155,6 +159,7 @@ Mods: (363)   			Mod Info			Modloader		Status 				Stabilität
 - ftb-quests			- Quest (book) mod		- NeoForge		- Release			- Stable	
 - ftb-teams			- for FTB Quest			- NeoForge		- Release			- Stable
 - ftb-ultimine			- QoL Mining Features		- NeoForge		- Release			- Stable
+- fuelgoeshere			- QoL fuel inport mod		- NeoForge		- Release			- Stable
 - functionalstorage		- Better Storage drawers	- NeoForge		- Beta				- Stable
 - fusion			- allow CTM texture packs	- NeoForge		- Beta				- Stable	
 - geckolib			- library mod  			- NeoForge		- Release			- Stable
@@ -195,6 +200,7 @@ Mods: (363)   			Mod Info			Modloader		Status 				Stabilität
 - kotlinforforge		- kotlin language Forge		- NeoForge		- Release			- Stable
 - krypton			- Performance & optimisation 	- Fabric		- Release			- Stable?
 - Ksyxis			- Performance & loading speed 	- NeoForge		- Release			- Stable?
+- labels			- QoL Decoration (itemframe)mod - NeoForge		- Release			- Stable
 - LeavesBeGone			- faster Leaves decay		- NeoForge		- Release			- Stable
 - libIPN			- library mod  			- NeoForge		- Release			- Stable
 - lithium			- Performance mod		- NeoForge		- Release			- Stable
@@ -251,6 +257,7 @@ Mods: (363)   			Mod Info			Modloader		Status 				Stabilität
 - oceansdelight			- Farmers delight addon		- NeoForge		- Release			- Stable 
 - OctoLib			- library mod  			- NeoForge		- Release			- Stable
 - Oh-The-Biomes-Weve-Gone	- World Gen Biome mod		- NeoForge		- Release			- Stable
+- oracle_index			- ingame wiki for mods (oritech)- NeoForge		- Release			- Stable
 - Oh-The-Trees-Youll-Grow	- library mod  			- NeoForge		- Release			- Stable
 - oritech			- Technik mod 			- NeoForge		- Beta				- Stable
 - owo-lib			- library mod  			- NeoForge		- Beta				- Stable
@@ -261,12 +268,13 @@ Mods: (363)   			Mod Info			Modloader		Status 				Stabilität
 - pamhc2trees			- pamhc trees			- NeoForge		- Release			- Stable
 - Patchouli			- Guide book libary		- NeoForge		- Release			- Stable
 - pipe_connector		- tool to connect pipes faster 	- NeoForge		- Release			- Stable	
-- Placebo			- library mod  			- NeoForge		- Release			- Stable
+- Placebo			- library mod  			- NeoForge		- Beta				- Stable
 - player-animation-lib		- library mod  			- NeoForge		- Release			- Stable
 - pneumaticcraft-repressurized	- technik mod witch pressure	- NeoForge		- Release			- Stable		
 - polyeng			- polymorph for AE2 Terminals	- NeoForge		- Release			- Stable
 - polymorph			- fixes duplicate recipes	- NeoForge		- Release			- Stable
 - PortableCraftingTable		- crafting table on a stick	- NeoForge		- Release			- Stable
+- potentials			- library mod  			- NeoForge		- Release			- Stable
 - Powah				- technik Reactor mod		- NeoForge		- Release			- Stable
 - prickle-neoforge		- prickle JSON format 		- NeoForge		- Release			- Stable
 - productivebees		- resource bees			- NeoForge		- Release			- Stable
@@ -293,7 +301,7 @@ Mods: (363)   			Mod Info			Modloader		Status 				Stabilität
 - ScalableCatsForce		- library mod  			- NeoForge		- Release			- Stable
 - ScalableLux			- Performance light engine mod	- NeoForge		- Beta				- Stable
 - Searchables			- library mod  			- NeoForge		- Release			- Stable
-- sepals			- Performance mod		- Fabric		- Release			- Stable
+- sepals			- Performance mod		- NeoForge		- Alpha				- Stable?
 - servercore			- Performance mod		- NeoForge		- Release			- Stable
 - slimeasier			- get slime easier		- NeoForge		- Release			- Stable
 - snowundertrees		- QoL snow layer mod		- NeoForge		- Release			- Stable
@@ -307,6 +315,7 @@ Mods: (363)   			Mod Info			Modloader		Status 				Stabilität
 - Spice of Life Onion		- enhanced food system		- NeoForge		- Release			- Stable
 - staaaaaaaaaaaack		- performance mod stack items	- NeoForge		- Release			- Stable
 - StackDeobfuscator		- log & report debug mod 	- Fabric		- Release			- Stable
+- stellaris			- Galacticraft ersatz		- NeoForge		- Release			- Stable?
 - Storage Drawers		- Storage blocks		- NeoForge		- Release			- Stable
 - streq				- library mod  			- Fabric		- Release			- Stable 
 - Structory			- atmospheric structures 	- NeoForge		- Release			- Stable
