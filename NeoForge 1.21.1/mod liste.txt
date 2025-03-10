@@ -180,7 +180,7 @@ Mods: (374)   			Mod Info			Modloader		Status 				Stabilität
 - immersivelanterns		- QoL decoration for lanterns	- NeoForge		- Release			- Stable
 - improvedsigns			- Sign & frame Improvements	- Fabric		- Release			- Stable	
 - Incendium			- World Gen Nether overhaul	- NeoForge		- Release			- Stable
-- industrialforegoing		- Technik mod			- NeoForge		- Beta				- Stable
+- industrialforegoing		- Technik mod			- NeoForge		- Release			- Stable
 - industrial-foregoing-souls	- industrail Foregoing addon	- NeoForge		- Beta				- Stable
 - InventoryProfilesNext		- Better Inventory features	- NeoForge		- Release			- Stable
 - IllagerInvasion		- more illagers			- NeoForge		- Release			- Stable
