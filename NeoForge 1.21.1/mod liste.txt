@@ -1,4 +1,4 @@
-Mods: (374)   			Mod Info			Modloader		Status 				Stabilität
+Mods: (375)   			Mod Info			Modloader		Status 				Stabilität
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Armor Status HUD		- QoL hud			- NeoForge		- Release			- Stable
@@ -10,6 +10,7 @@ Mods: (374)   			Mod Info			Modloader		Status 				Stabilität
 - actuallyadditions		- Technik Mod			- NeoForge		- Beta				- Stable
 - additionalbars		- Decoration Mod		- NeoForge		- Release			- Stable
 - AdditionalEnchantedMiner	- Buildcraft Miner		- NeoForge		- Release			- Stable
+- AdditionalPlacements		- QoL place slabs & stairs 	- NeoForge		- Release			- Stable? modernfix resourcelocation bug
 - AdvancedAE			- Applied Energistics addon	- NeoForge		- Release			- Stable
 - AdvancedPeripherals		- Computer craft addon		- NeoForge		- Alpha				- Stable?
 - ae2jeiintegration		- QoL Applied Energistics addon	- NeoForge		- Release			- Stable
@@ -45,7 +46,7 @@ Mods: (374)   			Mod Info			Modloader		Status 				Stabilität
 - BetterF3			- Better F3 screen   		- NeoForge		- Release			- Stable
 - betterfpsdist			- Performance Mod		- NeoForge		- Release			- Stable
 - BetterGrassify		- Optifine Better Grass option	- NeoForge		- Release			- Stable
-- BetterModsButton		- QoL Gui Button optimization   - NeoForge		- Release			- Stable
+- better_modlist		- QoL better modlist   		- NeoForge		- Release			- Stable
 - betterwalls			- connects fence, walls & co 	- Fabric		- Release			- Stable
 - bibliocraft			- Decoration Mod & QoL 		- NeoForge		- Release			- Stable	
 - bibliowoods			- bibliocraft addon 		- NeoForge		- Release			- Stable		
@@ -66,9 +67,11 @@ Mods: (374)   			Mod Info			Modloader		Status 				Stabilität
 - chipped			- Decoration Mod		- NeoForge		- Release			- Stable
 - chisel_chipped_integration	- addon for chisel Integration	- NeoForge		- Release			- Stable
 - chisel			- Decoration Mod		- NeoForge		- Release			- Stable
+- chisels-and-bits		- chisels-and-bits		- NeoForge		- Alpha				- unstable many bugs & crashes 
 - chunkloaders			- better Chunk loaders		- NeoForge		- Release			- Stable
 - Chunk-Pregenerator		- World Pre Generator Mod	- NeoForge		- Release			- Stable
 - CityCraf			- city Decoration mod		- NeoForge		- Release			- Stable
+- ClickSigns			- custom street signs		- Fabric 		- Release			- Stable
 - clientcrafting		- only Clientside crafting 	- NeoForge		- Release			- Stable
 - clienttweaks			- QoL optional Tweaks		- NeoForge		- Release			- Stable
 - cloth-config			- library mod  			- NeoForge		- Release			- Stable
@@ -120,7 +123,6 @@ Mods: (374)   			Mod Info			Modloader		Status 				Stabilität
 - dyenamics			- Decoration colors Mod  	- NeoForge		- Release			- Stable	
 - EasyAnvils			- Decoration Mod  		- NeoForge		- Release			- Stable	
 - EchoChest			- chest collect items nearby	- NeoForge		- Release			- Stable
-- effortless			- building menu			- NeoForge		- Release			- unstable? only crash on quit game
 - embeddium			- Performace mod		- NeoForge		- Release			- Stable
 - EnchantingInfuser		- QoL choose enchantments	- NeoForge		- Release			- Stable
 - enchdesc			- QoL enchantment description	- NeoForge		- Release			- Stable
@@ -184,8 +186,7 @@ Mods: (374)   			Mod Info			Modloader		Status 				Stabilität
 - industrial-foregoing-souls	- industrail Foregoing addon	- NeoForge		- Beta				- Stable
 - InventoryProfilesNext		- Better Inventory features	- NeoForge		- Release			- Stable
 - IllagerInvasion		- more illagers			- NeoForge		- Release			- Stable
-- InvMove			- QoL inv feature		- NeoForge		- Release			- Stable
-- iris				- Optifine shader option	- NeoForge		- Release			- Stable	
+- InvMove			- QoL inv feature		- NeoForge		- Release			- Stable	
 - itemcollectors		- item collectors	        - NeoForge		- Release			- Stable 
 - Jade				- new Hwyla 			- NeoForge		- Release			- Stable 
 - JadeAddons			- jade compability for mods	- NeoForge		- Release			- Stable 
@@ -205,7 +206,6 @@ Mods: (374)   			Mod Info			Modloader		Status 				Stabilität
 - libIPN			- library mod  			- NeoForge		- Release			- Stable
 - lithium			- Performance mod		- NeoForge		- Release			- Stable
 - lithostitched			- library mod  			- NeoForge		- Release			- Stable
-- LittleTiles			- chisel & bits like mod	- NeoForge		- Beta				- Stable?
 - lootintegration		- loot QoL when dungeons arrise	- NeoForge		- Release			- Stable
 - lootintegrations		- loot QoL dungeons and taverns - NeoForge		- Release			- Stable
 - lootintegrations              - loot QoL Vanilla		- NeoForge		- Release			- Stable
@@ -227,6 +227,7 @@ Mods: (374)   			Mod Info			Modloader		Status 				Stabilität
 - MekanismAdditions		- Mekanism addon		- NeoForge		- Alpha				- Stable
 - MekanismGenerators		- Mekanism addon		- NeoForge		- Alpha				- Stable?
 - MekanismTools			- Mekanism addon		- NeoForge		- Alpha				- Stable
+- mekanism_turrets		- mekanism addon		- NeoForge		- Release			- Stable
 - merequester			- Applied Energsitics addon	- NeoForge		- Beta				- Stable
 - mes				- World Gen Structures mod	- NeoForge		- Release			- Stable
 - mffs				- Technik mod forcefiel system	- NeoForge		- Release			- Stable
@@ -238,7 +239,6 @@ Mods: (374)   			Mod Info			Modloader		Status 				Stabilität
 - Modern-Industrialization	- Technik Mod (IC2 ersatz)	- NeoForge		- Release			- Stable
 - modnametooltip		- QoL tooltips			- NeoForge		- Release			- Stable
 - mods_optimizer		- optimize mod folder structure - NeoForge		- Release			- Stable
-- monocle			- embedium & iris compatibility	- NeoForge		- Release			- Stable
 - moonlight			- library mod  			- NeoForge		- Release			- Stable
 - moreculling			- Performance mod 		- NeoForge		- Release			- Stable 
 - moredelight			- Farmers Delight addon		- NeoForge		- Release			- Stable 
@@ -246,7 +246,8 @@ Mods: (374)   			Mod Info			Modloader		Status 				Stabilität
 - moreoverlays			- old NEI light overlays	- NeoForge		- Release			- Stable
 - MouseTweaks			- Mouse QoL			- NeoForge		- Release			- Stable
 - NaturesCompass		- Biome compass			- NeoForge		- Release			- Stable	
-- neo_medieval_buildings_end	- World gend strucures in end 	- NeoForge		- Release			- Stable	
+- neo_medieval_buildings_end	- World gend strucures in end 	- NeoForge		- Release			- Stable
+- neoculus			- Oculus for NeoForge 1.21.1	- NeoForge		- Release			- Stable? edit oculus-batched-entity-rendering
 - Neruina			- prevents ticking entity crash - NeoForge		- Release			- Stable
 - no-collision			- Performance collision fix	- NeoForge		- Release			- Stable
 - nofriendlyfire		- QoL for tamed mobs		- NeoForge		- Release			- Stable
@@ -351,7 +352,7 @@ Mods: (374)   			Mod Info			Modloader		Status 				Stabilität
 - wirelesschargers		- technik mod charger		- NeoForge		- Release			- Stable
 - Xaeros_Minimap		- minimap			- NeoForge		- Release			- Stable
 - XaerosWorldMap 		- world-map			- NeoForge		- Release			- Stable
-- XeKr's Decoration		- decoration mod		- NeoForge		- Release			- Stable? wall texture bug
+- XeKr's Decoration		- decoration mod		- NeoForge		- Release			- Stable? wall texture bug with diagonal walls
 - xycraft_core			- core mod			- NeoForge		- Release			- Stable
 - xycraft_machines		- technik mod			- NeoForge		- Release			- Stable
 - xycraft_override		- xycraft addon 		- NeoForge		- Release			- Stable

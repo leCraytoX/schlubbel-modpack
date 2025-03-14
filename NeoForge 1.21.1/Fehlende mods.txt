@@ -3,7 +3,6 @@ Wichtige mods
 -Project Red Mods	/ bald verfügbar
 -Thermal Mods		/ tba
 -Tinkers construct	/ tba
--create addons		/ bald verfügbar
 -draconic evolutions	/ bald verfügbar
 -Forestry Community 	/ tba
 -botany pots & trees	/ tba
@@ -11,7 +10,6 @@ Wichtige mods
 
 ersatz mods für:
 
--chisel & bits		/ tba (ersetzt durch litle tiles)
 -Galacticraft		/ pre alpha verfügbar für fabric (vorerst ersetzt durch Stellaris) 
 -Industrialcraft2 	/ tba (ersetzt durch Modern industrialisation & Oritech)
 
@@ -20,8 +18,9 @@ nicht so wichtige mods
 
 -alex mobs		/ tba
 -naturalist		/ tba
--Quark 			/ tba
+-Quark 			/ bald verfügbar
 -RF mods (Dimensions)	/ bald verfügbar
 -Weather2		/ tba
+-effortless 		/ crash mit embedium
 
 
