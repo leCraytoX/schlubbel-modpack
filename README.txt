@@ -6,6 +6,6 @@ Forge version: 47.3.0 - 47.3.27 "https://files.minecraftforge.net/net/minecraftf
 
 MC version 1.21.1
 
-NeoForge version: 21.1.133 -  ***  "https://projects.neoforged.net/neoforged/neoforge"
+NeoForge version: 21.1.169 -  21.1.173  "https://projects.neoforged.net/neoforged/neoforge"
 
 

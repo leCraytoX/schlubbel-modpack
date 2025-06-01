@@ -1,14 +1,10 @@
-Modpack Version: B-0.5.8.0
+Modpack Version: B-0.6.0.0
 
-Benötigt Min <6 GB Ram in singelplayer
+Benötigt Min 4 GB Ram in singelplayer
 
 
 
 Aktuelle BUGS:
-
-- XeKr's Decoration unsichtbare walls mit der mod diagonal walls
-
-- addiotional placement nicht compatible mit modernfix resourcelocation feature
 
 
 KRITISCH!:

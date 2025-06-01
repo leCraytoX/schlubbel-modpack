@@ -1,4 +1,4 @@
-Mods: (375)   			Mod Info			Modloader		Status 				Stabilität
+Mods: (386) - Debug mods  	Mod Info			Modloader		Status 				Stabilität
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Armor Status HUD		- QoL hud			- NeoForge		- Release			- Stable
@@ -7,17 +7,13 @@ Mods: (375)   			Mod Info			Modloader		Status 				Stabilität
 - accessories			- accessory Hud			- NeoForge		- Beta				- Stable
 - accessorify			- vanilla accessories   	- NeoForge		- Release			- Stable
 - accurate-block-placement	- better block placement	- Fabric 		- Release			- Stable
-- actuallyadditions		- Technik Mod			- NeoForge		- Beta				- Stable
+- actuallyadditions		- Technik Mod			- NeoForge		- Beta				- Stable?
 - additionalbars		- Decoration Mod		- NeoForge		- Release			- Stable
 - AdditionalEnchantedMiner	- Buildcraft Miner		- NeoForge		- Release			- Stable
-- AdditionalPlacements		- QoL place slabs & stairs 	- NeoForge		- Release			- Stable? modernfix resourcelocation bug
 - AdvancedAE			- Applied Energistics addon	- NeoForge		- Release			- Stable
 - AdvancedPeripherals		- Computer craft addon		- NeoForge		- Alpha				- Stable?
 - ae2jeiintegration		- QoL Applied Energistics addon	- NeoForge		- Release			- Stable
 - ae2wtlib			- AE2 addon wireless terminal	- NeoForge		- Release			- Stable
-- aeroblender			- TerraBlender for aether	- NeoForge		- Release			- Stable
-- aether			- Fantasy Mod			- NeoForge		- Release			- Stable
-- AetherVillages		- Aether village addon		- NeoForge		- Release			- Stable
 - AI-Improvements		- Performance Mod		- NeoForge		- Release			- Stable
 - alltheleaks			- Performance Mod Memory Leak 	- NeoForge		- Beta				- Stable
 - alternate_current		- Redstone dust Performance 	- NeoForge		- Release			- Stable
@@ -54,35 +50,35 @@ Mods: (375)   			Mod Info			Modloader		Status 				Stabilität
 - BiomesOPlenty			- World-Gen Biome Mod		- NeoForge		- Release			- Stable
 - blocksyouneed_luna		- Decoration Mod		- NeoForge		- Release			- Stable
 - bookshelf			- library mod			- NeoForge		- Release			- Stable
-- buildcraft			- Technik Mod			- NeoForge		- Pre Alpha			- Stable
+- buildcraft			- Technik Mod			- NeoForge		- Alpha				- Stable
 - ctov				- World-Gen Overhauled Village	- NeoForge		- Release			- Stable
-- c2me				- New Chunk Generation Engine	- NeoForge		- Alpha				- Stable?, can crash (disable Async Serialization?)
+- c2me				- New Chunk Generation Engine	- NeoForge		- Alpha				- Stable?
 - cable_facade			- Facade for all cables		- NeoForge		- Release			- Stable
 - capes				- Capes				- Fabric 		- Release			- Stable
 - CarbonConfig			- library mod  			- NeoForge		- Release			- Stable
 - carryon			- carry all Entitys		- NeoForge		- Release			- Stable
-- CBMultipart			- Forge Multipart 		- NeoForge		- Beta				- Stable, only with Embedium
+- CBMultipart			- Forge Multipart 		- NeoForge		- Release			- Stable
 - cc-tweaked			- Technik Mod (Computer craft)	- NeoForge		- Alpha				- Stable?
 - ChickenChunks			- Chunk loader			- NeoForge		- Release			- Stable
 - chipped			- Decoration Mod		- NeoForge		- Release			- Stable
 - chisel_chipped_integration	- addon for chisel Integration	- NeoForge		- Release			- Stable
 - chisel			- Decoration Mod		- NeoForge		- Release			- Stable
-- chisels-and-bits		- chisels-and-bits		- NeoForge		- Alpha				- unstable many bugs & crashes 
+- chisels-and-bits		- chisels-and-bits		- NeoForge		- Release			- Stable has many bugs 
 - chunkloaders			- better Chunk loaders		- NeoForge		- Release			- Stable
-- Chunk-Pregenerator		- World Pre Generator Mod	- NeoForge		- Release			- Stable
-- CityCraf			- city Decoration mod		- NeoForge		- Release			- Stable
+- Chunky			- World Pre Generator Mod	- NeoForge		- Release			- Stable
 - ClickSigns			- custom street signs		- Fabric 		- Release			- Stable
 - clientcrafting		- only Clientside crafting 	- NeoForge		- Release			- Stable
 - clienttweaks			- QoL optional Tweaks		- NeoForge		- Release			- Stable
 - cloth-config			- library mod  			- NeoForge		- Release			- Stable
 - Clumps			- Performance XP orb Mod 	- NeoForge		- Release			- Stable
 - cobweb			- library mod  			- NeoForge		- Release			- Stable
-- CodeChickenLib		- library Render Engine mod     - NeoForge		- Release			- Stable, only with Embedium
+- CodeChickenLib		- library Render Engine mod     - NeoForge		- Release			- Stable
 - collective			- library mod  			- NeoForge		- Release			- Stable
 - comforts			- Sleeping bags			- NeoForge		- Release			- Stable
+- continuity			- QoL connetctet textures	- NeoForge		- Release			- Stable
 - configured			- JEI settings mod		- NeoForge		- Release			- Stable
 - connectedglass		- Decoration Mod		- NeoForge		- Release			- Stable
-- connectiblechains		- Decoration Mod		- Fabric 		- Release			- Stable, with bugs
+- connectiblechains		- Decoration Mod		- Fabric 		- Release			- Stable, cannot destroy chain
 - connector			- NeoForge & Fabric Connector	- NeoForge		- Beta				- Stable?
 - ConnectorExtras		- Connector Compability addon	- NeoForge		- Release			- Stable
 - Continents			- World Gen Mod 		- NeoForge		- Release			- Stable
@@ -91,21 +87,22 @@ Mods: (375)   			Mod Info			Modloader		Status 				Stabilität
 - cosmicore			- Falling Meteors Mod		- NeoForge		- Release			- Stable
 - craftingstation-jei		- JEI compatible craftstation	- NeoForge		- Release			- Stable
 - CraftTweaker			- custom crafting recipes	- NeoForge		- Release			- Stable
-- Create Encased		- create addon 			- NeoForge		- Release			- Stable
+- copycats			- create addon 			- NeoForge		- Release			- Stable
+- create craft&additions	- create Energy transform	- NeoForge		- Beta				- Stable
+- create Escalated		- create addon 			- NeoForge		- Release			- Stable
+- create Encased		- create addon 			- NeoForge		- Release			- Stable
+- create_connected		- create addon 			- NeoForge		- Release			- Stable
 - create			- Kinetic technik mod		- NeoForge		- Release			- Stable
 - CreativeCore			- library core mod  		- NeoForge		- Release			- Stable
 - cristellib			- library mod  			- NeoForge		- Release			- Stable
 - cryonicconfig			- library mod  			- NeoForge		- Release			- Stable
-- Cucumber			- library mod  			- NeoForge		- Release			- Stable
-- cullleaves			- Performance mod for leaves	- NeoForge		- Release			- Stable
 - cupboard			- library mod  			- NeoForge		- Release			- Stable
 - CutThrough 			- QoL combat mod		- NeoForge		- Release			- Stable
-- cwb				- Borderless modes for Embedium	- NeoForge		- Release			- Stable
 - darkmodeeverywhere		- QoL Dakmode for all Guis      - NeoForge		- Release			- Stable
+- dashloader			- Performance speed up loading	- Fabric 		- Release			- Stable
 - despawntweaks			- QoL Performace mod		- NeoForge		- Release			- Stable
-- deep_aether 			- aether addon			- NeoForge		- Release			- Stable
 - DiagonalFences		- Diagonal Fence connections	- NeoForge		- Release			- Stable
-- DiagonalWalls			- Diagonal wall connections	- NeoForge		- Release			- Stable, can cause glitches with many mod walls
+- DiagonalWalls			- Diagonal wall connections	- NeoForge		- Release			- Stable
 - DiagonalWindows		- Diagonal Panes & bars connect - NeoForge		- Release			- Stable
 - Ding				- startup Ding			- NeoForge		- Release			- Stable
 - dismountentity		- dismount entitys from vehicles- NeoForge		- Release			- Stable
@@ -123,7 +120,6 @@ Mods: (375)   			Mod Info			Modloader		Status 				Stabilität
 - dyenamics			- Decoration colors Mod  	- NeoForge		- Release			- Stable	
 - EasyAnvils			- Decoration Mod  		- NeoForge		- Release			- Stable	
 - EchoChest			- chest collect items nearby	- NeoForge		- Release			- Stable
-- embeddium			- Performace mod		- NeoForge		- Release			- Stable
 - EnchantingInfuser		- QoL choose enchantments	- NeoForge		- Release			- Stable
 - enchdesc			- QoL enchantment description	- NeoForge		- Release			- Stable
 - enderio			- Technik Mod			- NeoForge		- Alpha 			- Stable?
@@ -147,6 +143,7 @@ Mods: (375)   			Mod Info			Modloader		Status 				Stabilität
 - fastpaintings			- Performance Mod for painting  - NeoForge		- Release			- Stable 
 - fastquit			- world-save in background	- Fabric		- Release			- Stable
 - FastWorkbench			- Performance mod for workbench - NeoForge		- Release			- Stable 
+- fastsuite 			- Performance Mod 		- NeoForge		- Release			- Stable 
 - ferritecore			- Performance mod for memory    - NeoForge		- Release			- Stable
 - fishermans_haven		- fishing & ocean ecploration	- NeoForge		- Release			- Stable
 - firespread			- spread fire faster		- Fabric		- Release			- Stable
@@ -222,7 +219,6 @@ Mods: (375)   			Mod Info			Modloader		Status 				Stabilität
 - mcw-trapdoors			- Decoration mod 		- NeoForge		- Release			- Stable
 - mcw-windows			- Decoration mod 		- NeoForge		- Release			- Stable
 - modonomicon			- thaumcraft like quest book 	- NeoForge		- Release			- Stable
-- Measurements			- Maßband mod 			- NeoForge		- Release			- Stable
 - Mekanism			- Technik mod			- NeoForge		- Alpha				- Stable?
 - MekanismAdditions		- Mekanism addon		- NeoForge		- Alpha				- Stable
 - MekanismGenerators		- Mekanism addon		- NeoForge		- Alpha				- Stable?
@@ -247,7 +243,6 @@ Mods: (375)   			Mod Info			Modloader		Status 				Stabilität
 - MouseTweaks			- Mouse QoL			- NeoForge		- Release			- Stable
 - NaturesCompass		- Biome compass			- NeoForge		- Release			- Stable	
 - neo_medieval_buildings_end	- World gend strucures in end 	- NeoForge		- Release			- Stable
-- neoculus			- Oculus for NeoForge 1.21.1	- NeoForge		- Release			- Stable? edit oculus-batched-entity-rendering
 - Neruina			- prevents ticking entity crash - NeoForge		- Release			- Stable
 - no-collision			- Performance collision fix	- NeoForge		- Release			- Stable
 - nofriendlyfire		- QoL for tamed mobs		- NeoForge		- Release			- Stable
@@ -280,8 +275,8 @@ Mods: (375)   			Mod Info			Modloader		Status 				Stabilität
 - prickle-neoforge		- prickle JSON format 		- NeoForge		- Release			- Stable
 - productivebees		- resource bees			- NeoForge		- Release			- Stable
 - PuzzlesLib			- library mod  			- NeoForge		- Release			- Stable
-- qraftyfied 			- industrial-structures		- NeoForge		- Release			- Stable
 - railcraft-reborn		- technik mod			- NeoForge		- Release			- Stable
+- reeses-sodium-options		- Sodium options addon  	- NeoForge		- Release			- Stable
 - rechiseled_chipped		- rechisel chipped addon	- NeoForge		- Release			- Stable
 - rechiseled			- Decoration Blocks		- NeoForge		- Release			- Stable
 - recipeessentials		- crafting improvements		- NeoForge		- Release			- Stable
@@ -292,10 +287,9 @@ Mods: (375)   			Mod Info			Modloader		Status 				Stabilität
 - resource_nether_ores		- vanilla ores in nether	- NeoForge		- Release			- Stable
 - resourcefullib		- library mod  			- NeoForge		- Release			- Stable
 - resourcelibrary		- library mod  			- NeoForge		- Release			- Stable
-- rftoolsbase			- technik mod			- NeoForge		- Beta				- Stable
-- rftoolsbuilder		- technik mod 			- NeoForge		- Beta				- Stable
-- rftoolspower			- technik mod 			- NeoForge		- Beta				- Stable
-- rubidium-extra		- embedium extras addon 	- NeoForge		- Release			- Stable
+- rftoolsbase			- technik mod			- NeoForge		- Release			- Stable
+- rftoolsbuilder		- technik mod 			- NeoForge		- Release			- Stable
+- rftoolspower			- technik mod 			- NeoForge		- Release			- Stable
 - rusticdelight			- Farmers delight addon		- NeoForge		- Release			- Stable
 - SecurityCraft			- technik mod			- NeoForge		- Release			- Stable
 - saturn			- Performance mod		- NeoForge		- Release			- Stable
@@ -306,7 +300,12 @@ Mods: (375)   			Mod Info			Modloader		Status 				Stabilität
 - servercore			- Performance mod		- NeoForge		- Release			- Stable
 - slimeasier			- get slime easier		- NeoForge		- Release			- Stable
 - snowundertrees		- QoL snow layer mod		- NeoForge		- Release			- Stable
-- sodiumdynamiclights		- dynamic lights		- NeoForge		- Release			- Stable?
+- sodium			- Performace mod		- NeoForge		- Release			- Stable
+- sodium-extra			- Sodium extras addon 		- NeoForge		- Release			- Stable
+- sodiumextras			- other Sodium extras addon 	- NeoForge		- Release			- Stable
+- sodiumoptionsmodcompat	- Sodium addon 			- NeoForge		- Release			- Stable
+- sodiumdynamiclights		- dynamic lights		- NeoForge		- Release			- Stable
+- sodiumleafculling		- Performance mod for leaves	- NeoForge		- Release			- Stable
 - sophisticatedbackpacks	- backpack mod			- NeoForge		- Release			- Stable
 - sophisticatedcore		- core mod			- NeoForge		- Release			- Stable
 - sophisticatedstorage		- better chests 		- NeoForge		- Release			- Stable
@@ -352,7 +351,6 @@ Mods: (375)   			Mod Info			Modloader		Status 				Stabilität
 - wirelesschargers		- technik mod charger		- NeoForge		- Release			- Stable
 - Xaeros_Minimap		- minimap			- NeoForge		- Release			- Stable
 - XaerosWorldMap 		- world-map			- NeoForge		- Release			- Stable
-- XeKr's Decoration		- decoration mod		- NeoForge		- Release			- Stable? wall texture bug with diagonal walls
 - xycraft_core			- core mod			- NeoForge		- Release			- Stable
 - xycraft_machines		- technik mod			- NeoForge		- Release			- Stable
 - xycraft_override		- xycraft addon 		- NeoForge		- Release			- Stable

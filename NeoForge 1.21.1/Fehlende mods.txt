@@ -1,26 +1,27 @@
 Wichtige mods
 
--Project Red Mods	/ bald verfügbar
--Thermal Mods		/ tba
+-Project Red Mods	/ in Entwicklung bald verfügbar
+-draconic evolutions	/ in Entwicklung tba
+-botany pots & trees	/ in Entwicklung bald verfügbar
+-Forestry Community 	/ in Entwicklung tba 
 -Tinkers construct	/ tba
--draconic evolutions	/ bald verfügbar
--Forestry Community 	/ tba
--botany pots & trees	/ tba
-
-
-ersatz mods für:
-
--Galacticraft		/ pre alpha verfügbar für fabric (vorerst ersetzt durch Stellaris) 
--Industrialcraft2 	/ tba (ersetzt durch Modern industrialisation & Oritech)
+-Thermal Mods		/ tba, entwickler hat keine zeit mehr
 
 
 nicht so wichtige mods
 
+-RF mods Dimensions 	/ tba
+-Quark 			/ in Entwicklung tba
 -alex mobs		/ tba
--naturalist		/ tba
--Quark 			/ bald verfügbar
--RF mods (Dimensions)	/ bald verfügbar
--Weather2		/ tba
--effortless 		/ crash mit embedium
+-naturalist		/ in Entwicklung tba
+-weather2		/ verfügbar aber crasht
+-effortless structure 	/ crash 
+
+
+ersatz mods für:
+
+-Galacticraft		/ pre alpha verfügbar für fabric (wird jahre brauchen für ein NeoForge port, ersetzt durch Stellaris) 
+-Industrialcraft2 	/ tba (ersetzt durch Modern industrialisation & Oritech)
+
 
 
