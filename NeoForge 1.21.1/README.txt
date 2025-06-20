@@ -16,6 +16,6 @@ Server bezüglich:
 
 nicht getestet
 
-[mod liste](modliste.pdf)
+[Mod Liste ansehen](https://github.com/leCraytoX/schlubbel-modpack/tree/main/NeoForge%201.21.1/modliste.pdf)
 
 
