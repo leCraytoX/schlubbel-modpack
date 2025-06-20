@@ -1,4 +1,4 @@
-Modpack Version: B-0.6.0.0
+Modpack Version: B-0.6.2.2
 
 Benötigt Min 4 GB Ram in singelplayer
 
@@ -16,6 +16,13 @@ Server bezüglich:
 
 nicht getestet
 
-Mod Liste ansehen https://github.com/leCraytoX/schlubbel-modpack/tree/main/NeoForge%201.21.1/modliste.pdf
+
+
+
+
+
+Mod Liste:
+
+- https://github.com/leCraytoX/schlubbel-modpack/tree/main/NeoForge%201.21.1/modliste.pdf
 
 
