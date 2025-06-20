@@ -10,11 +10,9 @@ Wichtige mods
 
 nicht so wichtige mods
 
--RF mods Dimensions 	/ tba
 -Quark 			/ in Entwicklung tba
 -alex mobs		/ tba
 -naturalist		/ in Entwicklung tba
--weather2		/ verfügbar aber crasht
 -effortless structure 	/ crash 
 
 
