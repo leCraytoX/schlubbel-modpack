@@ -16,6 +16,6 @@ Server bezüglich:
 
 nicht getestet
 
-[mod liste](NeoForge 1.21.1/modliste.pdf)
+[mod liste](modliste.pdf)
 
 
