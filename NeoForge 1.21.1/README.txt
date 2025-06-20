@@ -16,6 +16,6 @@ Server bezüglich:
 
 nicht getestet
 
-[mod liste)](mod liste.pdf)
+[mod liste](/mod liste.pdf)
 
 
