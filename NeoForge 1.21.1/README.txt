@@ -2,9 +2,14 @@ Modpack Version: B-0.6.2.2
 
 Benötigt Min 4 GB Ram in singelplayer
 
+Java 21 Adoptium:
+
+- https://adoptium.net/de/temurin/releases/?os=windows&arch=x64&version=21
+_______________________________________________________________________________________________________________________________________________
 
 
 Aktuelle BUGS:
+
 
 
 KRITISCH!:
@@ -16,10 +21,7 @@ Server bezüglich:
 
 nicht getestet
 
-
-
-
-
+_______________________________________________________________________________________________________________________________________________
 
 Mod Liste:
 
