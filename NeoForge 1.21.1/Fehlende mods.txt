@@ -1,18 +1,14 @@
 Wichtige mods
 
--Project Red Mods	/ in Entwicklung bald verfügbar
--draconic evolutions	/ in Entwicklung tba
--botany pots & trees	/ in Entwicklung bald verfügbar
--Forestry Community 	/ in Entwicklung tba 
+-Forestry Community 	/ in Entwicklung, tba
 -Tinkers construct	/ tba
 -Thermal Mods		/ tba, entwickler hat keine zeit mehr
 
 
 nicht so wichtige mods
 
--Quark 			/ in Entwicklung tba
--alex mobs		/ tba
--naturalist		/ in Entwicklung tba
+-Quark 			/ in Entwicklung, tba
+-naturalist		/ in Entwicklung, tba
 -effortless structure 	/ crash 
 
 

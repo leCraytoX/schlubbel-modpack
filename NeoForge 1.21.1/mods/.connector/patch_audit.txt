@@ -1,0 +1,11 @@
+==== Connector Mixin Patch Audit Summary ====
+Successful: 0
+Partial: 0
+Failed: 0
+Success rate: NaN%        Accuracy: NaN%
+=============================================
+
+Mixin method net/kyrptonaught/tooltipfix/mixin/FixToolTipMixin modifyRenderX(ILnet/minecraft/client/gui/Font;Ljava/util/List;I)I
+  >> Using org.sinytra.adapter.patch.transformer.dynamic.DynamicInjectorOrdinalPatch
+     - Update injection point ordinal from LocalVar[lvn=org.objectweb.asm.tree.LocalVariableNode@56668f1c, ordinal=7, relative=false] to LocalVar[lvn=org.objectweb.asm.tree.LocalVariableNode@72fba739, ordinal=7, relative=false]
+
