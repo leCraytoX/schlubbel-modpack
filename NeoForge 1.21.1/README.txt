@@ -1,6 +1,6 @@
-Modpack Version: B-0.6.2.2
+Modpack Version: B-0.7.5.1
 
-Benötigt Min 4 GB Ram in singelplayer
+Benötigt Min 6 GB Ram in singelplayer
 
 Java 21 Adoptium:
 
@@ -10,16 +10,15 @@ ________________________________________________________________________________
 
 Aktuelle BUGS:
 
-
+-
 
 KRITISCH!:
 
-- Java error "EXCEPTION_ACCESS_VIOLATION (0xc0000005)" irgendwas mit der OpenAL.dll in Bin ordner
-
+-
 
 Server bezüglich:
 
-nicht getestet
+-
 
 _______________________________________________________________________________________________________________________________________________
 
