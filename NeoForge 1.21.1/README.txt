@@ -1,4 +1,4 @@
-Modpack Version: B-0.7.5.1
+Modpack Version: B-0.7.5.6
 
 Benötigt Min 6 GB Ram in singelplayer
 
@@ -10,7 +10,8 @@ ________________________________________________________________________________
 
 Aktuelle BUGS:
 
--
+manche items unischtbar / draconic / ae2: nur charged items
+
 
 KRITISCH!:
 
