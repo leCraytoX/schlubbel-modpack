@@ -1,6 +1,6 @@
-Modpack Version: B-0.7.5.6
+Modpack Version: B-0.8.0.0
 
-Benötigt Min 6 GB Ram in singelplayer
+Benötigt Min 8 GB Ram in singelplayer
 
 Java 21 Adoptium:
 
@@ -10,12 +10,11 @@ ________________________________________________________________________________
 
 Aktuelle BUGS:
 
-manche items unischtbar / draconic / ae2: nur charged items
-
+-
 
 KRITISCH!:
 
--
+Bogen crash timeout?
 
 Server bezüglich:
 
