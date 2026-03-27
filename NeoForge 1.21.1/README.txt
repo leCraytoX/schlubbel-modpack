@@ -1,4 +1,4 @@
-Modpack Version: B-0.8.0.0
+Modpack Version: B-0.8.1.0
 
 Benötigt Min 8 GB Ram in singelplayer
 
@@ -14,7 +14,7 @@ Aktuelle BUGS:
 
 KRITISCH!:
 
-Bogen crash timeout?
+-
 
 Server bezüglich:
 
