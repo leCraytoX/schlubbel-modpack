@@ -1,4 +1,4 @@
-Modpack Version: B-0.8.1.5
+Modpack Version: B-0.8.1.6
 
 Benötigt Min 8 GB Ram in singelplayer
 
@@ -14,7 +14,7 @@ Aktuelle BUGS:
 
 KRITISCH!:
 
--
+crash mit dragonlib, trafficcraft, uwulib, pantograph, create navigator
 
 Server bezüglich:
 
