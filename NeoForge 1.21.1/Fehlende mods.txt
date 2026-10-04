@@ -1,19 +1,12 @@
-Wichtige mods
+Fehlende mods
 
-
--Forestry Community 	/ in Entwicklung, tba
 -Tinkers construct	/ tba
 -Thermal Mods		/ tba, entwickler hat keine zeit mehr
 
 
-nicht so wichtige mods
-
--naturalist		/ in Entwicklung, tba
-
-
 ersatz mods für:
 
--Galacticraft		/ pre alpha verfügbar für fabric (wird jahre brauchen für ein NeoForge port, ersetzt durch Stellaris) 
+-Galacticraft		/ pre alpha verfügbar für fabric (ersetzt durch AD astra) 
 -Industrialcraft2 	/ tba (ersetzt durch Modern industrialisation & Oritech)
 
 

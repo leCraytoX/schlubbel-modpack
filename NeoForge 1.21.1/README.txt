@@ -1,6 +1,6 @@
-Modpack Version: B-0.9.0
+Modpack Version: R-1.0.1
 
-Benötigt Min 8 GB Ram in singelplayer
+Benötigt Min 12 GB Ram in singelplayer
 
 Java 21 Adoptium:
 
@@ -14,9 +14,11 @@ Aktuelle BUGS:
 
 KRITISCH!:
 
+
+
 crash bei C.M.S workbench crafting nach fahrzeug 10?
 
-Server bezüglich:
+crash bei benutzung von pantograph mod und sophisticated building
 
 -
 

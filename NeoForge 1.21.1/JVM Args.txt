@@ -1,5 +1,5 @@
--Xms6G 
--Xmx8G
+-Xms8G 
+-Xmx12G
 -XX:+UseG1GC
 -XX:+UnlockExperimentalVMOptions
 -XX:+UnlockDiagnosticVMOptions
